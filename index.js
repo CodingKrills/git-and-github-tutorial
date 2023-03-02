@@ -15,3 +15,9 @@ const sub = (a, b) => {
 };
 
 sub(12, 20);
+
+const pow = (a, b) => {
+  return a ** b;
+};
+
+pow(12, 20);
