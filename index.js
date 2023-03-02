@@ -9,3 +9,9 @@ const mul = (a, b) => {
 };
 
 mul(12, 20);
+
+const sub = (a, b) => {
+  return a - b;
+};
+
+sub(12, 20);
